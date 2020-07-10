@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 读书：穷查理宝典
-categories: Blog
+date: 2020-07-10 15:29:03.020000000 +08:00
+categories:
+- Blog
+layout: post
 description: 穷查理宝典读书笔记。
 keywords: 穷查理宝典
 ---
