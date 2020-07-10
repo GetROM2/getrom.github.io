@@ -13,14 +13,14 @@ collections:
     output: true
     permalink: "/wiki/:path/"
 baseurl: 
-url: https://GetROM.github.io
+url: https://getrom.github.io
 date_format: ordinal
 subtitle: 
 description: 
 keywords: N1固件, Webpad固件, YYF, Rush, N1旁路由, K2P固件, 荒野无灯
 encoding: utf-8
 side_bar_repo_limit: 5
-repository: GetROM/GetROM.github.io
+repository: getrom/getrom.github.io
 cdn:
   jsdelivr:
     enabled: true
