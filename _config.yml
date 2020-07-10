@@ -72,7 +72,8 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jemoji
-comments_provider: gitalk
+comments_provider: gitment
+#原gitalk
 disqus:
   username: 
 gitment:
