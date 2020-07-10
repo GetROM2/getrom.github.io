@@ -73,7 +73,6 @@ plugins:
 - jekyll-feed
 - jemoji
 comments_provider: gitment
-#原gitalk
 disqus:
   username: 
 gitment:
