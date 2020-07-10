@@ -1,6 +1,6 @@
 ---
 title: template page
-date: 2020-07-10 15:29:03.103000000 +08:00
+date: 2020-07-10 15:29:03 +08:00
 categories:
 - cate1
 - cate2

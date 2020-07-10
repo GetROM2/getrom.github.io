@@ -1,6 +1,6 @@
 ---
 title: 用 Travis CI 免费自动构建和部署 GitBook
-date: 2020-07-10 15:29:03.167000000 +08:00
+date: 2020-07-10 15:29:03 +08:00
 categories:
 - GitHub
 layout: post
